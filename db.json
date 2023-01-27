@@ -9,18 +9,14 @@
     "clientName": "Jensen Huang",
     "clientEmail": "jensenh@mail.com",
     "status": "paid",
-    "senderAddress": {
-      "street": "19 Union Terrace",
-      "city": "London",
-      "postCode": "E1 3EZ",
-      "country": "United Kingdom"
-    },
-    "clientAddress": {
-      "street": "106 Kendell Street",
-      "city": "Sharrington",
-      "postCode": "NR24 5WQ",
-      "country": "United Kingdom"
-    },
+    "senderStreet": "19 Union Terrace",
+    "senderCity": "London",
+    "senderPostCode": "E1 3EZ",
+    "senderCountry": "United Kingdom",
+    "clientStreet": "106 Kendell Street",
+    "clientCity": "Sharrington",
+    "clientPostCode": "NR24 5WQ",
+    "clientCountry": "United Kingdom",
     "items": [
       {
         "name": "Brand Guidelines",
@@ -41,18 +37,14 @@
     "clientName": "Alex Grim",
     "clientEmail": "alexgrim@mail.com",
     "status": "pending",
-    "senderAddress": {
-      "street": "19 Union Terrace",
-      "city": "London",
-      "postCode": "E1 3EZ",
-      "country": "United Kingdom"
-    },
-    "clientAddress": {
-      "street": "84 Church Way",
-      "city": "Bradford",
-      "postCode": "BD1 9PB",
-      "country": "United Kingdom"
-    },
+    "senderStreet": "19 Union Terrace",
+    "senderCity": "London",
+    "senderPostCode": "E1 3EZ",
+    "senderCountry": "United Kingdom",
+    "clientStreet": "84 Church Way",
+    "clientCity": "Bradford",
+    "clientPostCode": "BD1 9PB",
+    "clientCountry": "United Kingdom",
     "items": [
       {
         "name": "Banner Design",
@@ -78,18 +70,14 @@
     "clientName": "John Morrison",
     "clientEmail": "jm@myco.com",
     "status": "paid",
-    "senderAddress": {
-      "street": "19 Union Terrace",
-      "city": "London",
-      "postCode": "E1 3EZ",
-      "country": "United Kingdom"
-    },
-    "clientAddress": {
-      "street": "79 Dover Road",
-      "city": "Westhall",
-      "postCode": "IP19 3PF",
-      "country": "United Kingdom"
-    },
+    "SenderStreet": "19 Union Terrace",
+    "SenderCity": "London",
+    "SenderPostCode": "E1 3EZ",
+    "SenderCountry": "United Kingdom",
+    "clientStreet": "79 Dover Road",
+    "clientCity": "Westhall",
+    "clientPostCode": "IP19 3PF",
+    "clientCountry": "United Kingdom",
     "items": [
       {
         "name": "Website Redesign",
@@ -109,18 +97,15 @@
     "clientName": "Alysa Werner",
     "clientEmail": "alysa@email.co.uk",
     "status": "pending",
-    "senderAddress": {
-      "street": "19 Union Terrace",
-      "city": "London",
-      "postCode": "E1 3EZ",
-      "country": "United Kingdom"
-    },
-    "clientAddress": {
-      "street": "63 Warwick Road",
-      "city": "Carlisle",
-      "postCode": "CA20 2TG",
-      "country": "United Kingdom"
-    },
+    "senderStreet": "19 Union Terrace",
+    "senderCity": "London",
+    "senderPostCode": "E1 3EZ",
+    "senderCountry": "United Kingdom",
+    "clientStreet": "63 Warwick Road",
+    "clientCity": "Carlisle",
+    "clientPostCode": "CA20 2TG",
+    "clientCountry": "United Kingdom",
+
     "items": [
       {
         "name": "Logo Sketches",
@@ -140,18 +125,14 @@
     "clientName": "Mellisa Clarke",
     "clientEmail": "mellisa.clarke@example.com",
     "status": "pending",
-    "senderAddress": {
-      "street": "19 Union Terrace",
-      "city": "London",
-      "postCode": "E1 3EZ",
-      "country": "United Kingdom"
-    },
-    "clientAddress": {
-      "street": "46 Abbey Row",
-      "city": "Cambridge",
-      "postCode": "CB5 6EG",
-      "country": "United Kingdom"
-    },
+    "senderStreet": "19 Union Terrace",
+    "senderCity": "London",
+    "senderPostCode": "E1 3EZ",
+    "senderCountry": "United Kingdom",
+    "clientStreet": "46 Abbey Row",
+    "clientCity": "Cambridge",
+    "clientPostCode": "CB5 6EG",
+    "clientCountry": "United Kingdom",
     "items": [
       {
         "name": "New Logo",
@@ -177,18 +158,14 @@
     "clientName": "Thomas Wayne",
     "clientEmail": "thomas@dc.com",
     "status": "pending",
-    "senderAddress": {
-      "street": "19 Union Terrace",
-      "city": "London",
-      "postCode": "E1 3EZ",
-      "country": "United Kingdom"
-    },
-    "clientAddress": {
-      "street": "3964  Queens Lane",
-      "city": "Gotham",
-      "postCode": "60457",
-      "country": "United States of America"
-    },
+    "senderStreet": "19 Union Terrace",
+    "senderCity": "London",
+    "senderPostCode": "E1 3EZ",
+    "senderCountry": "United Kingdom",
+    "clientStreet": "3964  Queens Lane",
+    "clientCity": "Gotham",
+    "clientPostCode": "60457",
+    "clientCountry": "United States of America",
     "items": [
       {
         "name": "Web Design",
@@ -208,18 +185,14 @@
     "clientName": "Anita Wainwright",
     "clientEmail": "",
     "status": "draft",
-    "senderAddress": {
-      "street": "19 Union Terrace",
-      "city": "London",
-      "postCode": "E1 3EZ",
-      "country": "United Kingdom"
-    },
-    "clientAddress": {
-      "street": "",
-      "city": "",
-      "postCode": "",
-      "country": ""
-    },
+    "senderStreet": "19 Union Terrace",
+    "senderCity": "London",
+    "senderPostCode": "E1 3EZ",
+    "senderCountry": "United Kingdom",
+    "clientStreet": "",
+    "clientCity": "",
+    "clientPostCode": "",
+    "clientCountry": "",
     "items": [
       {
         "name": "Logo Re-design",
